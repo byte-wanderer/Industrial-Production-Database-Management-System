@@ -1,2 +1,3 @@
 # Production-Database-Management-System
-Internship Proejct
+Internship Project
+Author: Shaashwat Dagar
